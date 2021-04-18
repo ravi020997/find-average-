@@ -1,0 +1,11 @@
+var num1 = 10;
+var num2 = 20;
+var num3 = 30;
+var num4 = 40;
+var num5 = 50;
+var num6 = 60;
+var total_num = num1+num2+num3+num4+num5+num6;
+var total_number_of_nums = 6;
+var average = total_num/total_number_of_nums;
+console.log("Total Average is " + average);
+console.log("");
